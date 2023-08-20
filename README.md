@@ -1,9 +1,5 @@
-# CS571-2023-05-Final-Project
-# MIU-MSD-CS571-2023-5-Final-Project
-## Final Project - Restaurant Management App
-### Application specifications and requirements
-You will create a mobile application to help restaurant owners manage their food.
-  
+Demo: 
+This will create a mobile application to help restaurant owners manage their food.
 The owners must sign up for a new account (using a unique email, phone number, full name, password, and address). Every time they login in successfully, the application will display three tabs:
 1. **List of Foods**
     * List of Food
